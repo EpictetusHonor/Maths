@@ -8,7 +8,7 @@ const K: i8 = 12; // last index number in the arithmetic progression, the "k" el
 fn main() {
     let mut i: i8 = 1; // first index count number.
     loop {
-        aritmetic_op(&mut i);
+        aritmetic_op(&mut i); // <-- thats in here was the "reference sintax" in this lenguage for a mutable variable.
         // when you get the last result in the progression you break in here the loop.
         if i == K {
             aritmetic_op(&mut i);
