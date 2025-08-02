@@ -1,4 +1,4 @@
-// its easy but usefull (maybe?), idk
+// It is simple but useful in the future (maybe?).
 program factorialMaths;
 procedure factorial (var res:longint);
 var
