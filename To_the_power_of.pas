@@ -4,7 +4,7 @@ var
   p,i,number,resultt:longint;
 begin
   p:=0;
-  writeln('First, input a number. The program will then display "number to the power of ". After that, input the exponent. To stop the program, enter 999999 when prompted for the exponent.');
+  writeln('First, input a integer number. The program will then display "number to the power of ". After that, input the exponent. To stop the program, enter 999999 when prompted for the exponent.');
   readln(number);
   writeln(number,' to power of ');readln(p);
   while (p<>999999) do begin
