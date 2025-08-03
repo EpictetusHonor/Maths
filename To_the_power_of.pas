@@ -1,8 +1,7 @@
 //idea: (pseudocode) get value number and to be elevated of keyboard, make a for 2 to n valor = valor*valor; if one the code for will not be activated so its resolve any posible situation
 program To_the_power_of;
 var
-  p,i:integer;
-  number,resultt:integer;
+  p,i,number,resultt:integer;
 begin
   p:=0;
   while (p<>9999) do begin
