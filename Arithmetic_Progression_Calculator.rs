@@ -1,4 +1,4 @@
-// General calculation of -arithmetic progression-.
+// General calculation of -arithmetic progression-. Trying to do something interesting while reading the Rust book.
 
 // The area where the user inputs the values for the start, step, and end of the arithmetic progression.
 const DIFFERENCE: i8 = 3;// arithmetic variance.
